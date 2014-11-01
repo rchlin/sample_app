@@ -47,3 +47,6 @@ end
 group :production do
   gem 'pg', '0.12.2'
 end
+
+#according to ruby on rails tutorial 2rd edition, chapter5, 5.1.2
+gem 'bootstrap-sass', '2.0.4'
